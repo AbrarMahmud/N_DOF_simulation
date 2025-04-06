@@ -1,7 +1,3 @@
-# N_DOF_simulation
-Disclaimer: D-H parameter sequence
-          <p>  |alpha(i-1) |d(i) |theta(i) or a(i)|</p>
-
 # 🤖 Robotic Arm Manipulator Visualizer using Processing3
 
 A powerful tool for visualizing and comparing the solutions of robotic arm inverse kinematics (IK) using **Processing3**. This project allows users to input a **Denavit-Hartenberg (DH) matrix table** and visualize the solution path of the manipulator according to a given parametric path function. It also supports **real-time Arduino integration**, enabling live performance comparison between calculated IK solutions and actual robotic arm movements.
