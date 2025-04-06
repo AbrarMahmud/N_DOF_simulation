@@ -11,19 +11,22 @@ A powerful tool for visualizing and comparing the solutions of robotic arm inver
 ## 📽️ Demo Visualizations
 
 ### 🔧 6-DOF Manipulator Visualization
-![6-DOF Arm Visualization](pic1.gif)
-
+<div align="center">
+  <img src="https://github.com/AbrarMahmud/N_DOF_simulation/blob/main/DH_matrix_to_arm_visualizer/6_DOF_arm.gif" alt="github-small" width="50%">
+</div>
 ---
 
 ### ⚙️ SCARA Robot Visualization
-![SCARA Arm Visualization](pic2.gif)
-
+<div align="center">
+  <img src="https://github.com/AbrarMahmud/N_DOF_simulation/blob/main/DH_matrix_to_arm_visualizer/SCARA_arm.gif" alt="github-small" width="50%">
+</div>
 ---
 
 ### 🔌 Real-Time Performance Comparison (Arduino)
 This visual shows the comparison between the calculated IK solution and the real robotic arm connected through the Arduino serial interface.  
-![Real-time Comparison](pic3.gif)
-
+<div align="center">
+  <img src="https://github.com/AbrarMahmud/N_DOF_simulation/blob/main/DH_matrix_to_arm_visualizer/IMG_0497.gif" alt="github-small" width="50%">
+</div>
 ---
 
 ## 🧩 Features
